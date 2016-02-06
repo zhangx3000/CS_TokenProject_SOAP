@@ -1,0 +1,10 @@
+c:\users\pgmilenkov\documents\visual studio 2012\Projects\CS_TokenProject_SOAP\TokenServer\bin\Debug\TokenServer.exe.config
+C:\Users\pgmilenkov\documents\visual studio 2012\Projects\CS_TokenProject_SOAP\TokenServer\obj\Debug\TokenServer.csprojResolveAssemblyReference.cache
+C:\Users\pgmilenkov\documents\visual studio 2012\Projects\CS_TokenProject_SOAP\TokenServer\obj\Debug\TokenServer.Form1.resources
+C:\Users\pgmilenkov\documents\visual studio 2012\Projects\CS_TokenProject_SOAP\TokenServer\obj\Debug\TokenServer.Properties.Resources.resources
+C:\Users\pgmilenkov\documents\visual studio 2012\Projects\CS_TokenProject_SOAP\TokenServer\obj\Debug\TokenServer.csproj.GenerateResource.Cache
+C:\Users\pgmilenkov\documents\visual studio 2012\Projects\CS_TokenProject_SOAP\TokenServer\bin\Debug\TokenServer.exe
+C:\Users\pgmilenkov\documents\visual studio 2012\Projects\CS_TokenProject_SOAP\TokenServer\bin\Debug\TokenServer.pdb
+C:\Users\pgmilenkov\documents\visual studio 2012\Projects\CS_TokenProject_SOAP\TokenServer\bin\Debug\woxSerializer.dll
+C:\Users\pgmilenkov\documents\visual studio 2012\Projects\CS_TokenProject_SOAP\TokenServer\obj\Debug\TokenServer.exe
+C:\Users\pgmilenkov\documents\visual studio 2012\Projects\CS_TokenProject_SOAP\TokenServer\obj\Debug\TokenServer.pdb
